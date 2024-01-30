@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Platform_Models.LearnBlazorModels
 {
-    public class Product
+    public class ProductProp
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public bool IsActive { get; set; }
-        public List<ProductProp> ProductProp { get; set; }
+        public string  Key { get; set; }
+        public string Value { get; set; }
     }
 }
