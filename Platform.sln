@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatformWeb_Server", "Platf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatformWeb_Client", "PlatformWeb_Client\PlatformWeb_Client.csproj", "{E9DB0D74-5D77-4BCA-AD3C-4FB19C639FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform_Models", "Platform_Models\Platform_Models.csproj", "{E7A1921F-3AA5-418D-8368-ABEFE0068AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Platform_Models", "Platform_Models\Platform_Models.csproj", "{E7A1921F-3AA5-418D-8368-ABEFE0068AF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
